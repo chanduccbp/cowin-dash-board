@@ -1,0 +1,58 @@
+/* Write your CSS here */
+.bg-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  border-style: solid;
+  padding: 10px;
+  background-color: #161625;
+}
+
+.wl-cont {
+  display: flex;
+  align-items: center;
+  width: 80%;
+}
+
+.wl {
+  width: 5%;
+  margin: 5px;
+}
+
+.wl-head {
+  color: #2cc6c6;
+  font-family: 'roboto';
+}
+
+.w-head {
+  font-family: 'roboto';
+  width: 80%;
+  color: #ffffff;
+}
+
+.fv-cont {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'roboto';
+  color: #ffffff;
+}
+
+.fv-pic {
+  width: 60%;
+}
+
+.loader-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.charts {
+  width: 80%;
+}

@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.vg-cont {
+  width: 100%;
+  background-color: #1c1c2b;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.vg-head {
+  font-family: 'roboto';
+  color: #cbd5e1;
+  margin-left: 30px;
+}
